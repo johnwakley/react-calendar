@@ -1,0 +1,415 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CalendarMonth should show month 1`] = `
+<div
+  className="sc-bdVaJa ffSamm"
+>
+  <div
+    className="sc-bwzfXH kosksu"
+  >
+    June
+  </div>
+  <div
+    className="sc-htpNat dPjGwt"
+  >
+    <div
+      className="sc-bxivhb iayOwP"
+    >
+      <div
+        className="sc-ifAKCX iQLrSg"
+      >
+        Sun
+      </div>
+    </div>
+    <div
+      className="sc-EHOje jytZOR"
+    >
+      <div
+        className="sc-bZQynM uZQAu"
+      >
+        Mon
+      </div>
+    </div>
+    <div
+      className="sc-gzVnrw kCYczj"
+    >
+      <div
+        className="sc-htoDjs gdNlEO"
+      >
+        Tue
+      </div>
+    </div>
+    <div
+      className="sc-dnqmqq mWOgS"
+    >
+      <div
+        className="sc-iwsKbI bqTilp"
+      >
+        Wed
+      </div>
+    </div>
+    <div
+      className="sc-gZMcBi jcdOCC"
+    >
+      <div
+        className="sc-gqjmRU ghUhZO"
+      >
+        Thu
+      </div>
+    </div>
+    <div
+      className="sc-VigVT bQdnss"
+    >
+      <div
+        className="sc-jTzLTM gHEqvc"
+      >
+        Fri
+      </div>
+    </div>
+    <div
+      className="sc-fjdhpX hELONV"
+    >
+      <div
+        className="sc-jzJRlG dQOLlQ"
+      >
+        Sat
+      </div>
+    </div>
+  </div>
+  <div
+    className="sc-htpNat dPjGwt"
+  >
+    <div
+      className="sc-cSHVUG yggOO"
+    >
+      <div
+        className="sc-kAzzGY fZEISB"
+      >
+        28
+      </div>
+    </div>
+    <div
+      className="sc-chPdSV cwnwCX"
+    >
+      <div
+        className="sc-kgoBCf kYDghQ"
+      >
+        29
+      </div>
+    </div>
+    <div
+      className="sc-kGXeez dRohDh"
+    >
+      <div
+        className="sc-kpOJdX IhOEz"
+      >
+        30
+      </div>
+    </div>
+    <div
+      className="sc-dxgOiQ ijcqxc"
+    >
+      <div
+        className="sc-ckVGcZ dzTxss"
+      >
+        31
+      </div>
+    </div>
+    <div
+      className="sc-jKJlTe htjdIU"
+    >
+      <div
+        className="sc-eNQAEJ kmQFZs"
+      >
+        1
+      </div>
+    </div>
+    <div
+      className="sc-hMqMXs bZdHKA"
+    >
+      <div
+        className="sc-kEYyzF dBTyik"
+      >
+        2
+      </div>
+    </div>
+    <div
+      className="sc-kkGfuU cYltK"
+    >
+      <div
+        className="sc-iAyFgw hxtSmo"
+      >
+        3
+      </div>
+    </div>
+  </div>
+  <div
+    className="sc-htpNat dPjGwt"
+  >
+    <div
+      className="sc-hSdWYo fcJpRz"
+    >
+      <div
+        className="sc-eHgmQL lfQTT"
+      >
+        4
+      </div>
+    </div>
+    <div
+      className="sc-cvbbAY fXxuJk"
+    >
+      <div
+        className="sc-jWBwVP bRuuUL"
+      >
+        5
+      </div>
+    </div>
+    <div
+      className="sc-brqgnP lghFPn"
+    >
+      <div
+        className="sc-cMljjf hNKuJe"
+      >
+        6
+      </div>
+    </div>
+    <div
+      className="sc-jAaTju iejBVB"
+    >
+      <div
+        className="sc-jDwBTQ fBCTDr"
+      >
+        7
+      </div>
+    </div>
+    <div
+      className="sc-gPEVay SzdHS"
+    >
+      <div
+        className="sc-iRbamj EkUDy"
+      >
+        8
+      </div>
+    </div>
+    <div
+      className="sc-jlyJG cNedej"
+    >
+      <div
+        className="sc-gipzik ioylVB"
+      >
+        9
+      </div>
+    </div>
+    <div
+      className="sc-csuQGl fNcaxg"
+    >
+      <div
+        className="sc-Rmtcm dPOtbv"
+      >
+        10
+      </div>
+    </div>
+  </div>
+  <div
+    className="sc-htpNat dPjGwt"
+  >
+    <div
+      className="sc-bRBYWo bKWnOi"
+    >
+      <div
+        className="sc-hzDkRC KFkdX"
+      >
+        11
+      </div>
+    </div>
+    <div
+      className="sc-jhAzac gTqVHN"
+    >
+      <div
+        className="sc-fBuWsC dOzGyN"
+      >
+        12
+      </div>
+    </div>
+    <div
+      className="sc-fMiknA cBHnrJ"
+    >
+      <div
+        className="sc-dVhcbM iJSmpZ"
+      >
+        13
+      </div>
+    </div>
+    <div
+      className="sc-eqIVtm bzvgUb"
+    >
+      <div
+        className="sc-fAjcbJ btczTp"
+      >
+        14
+      </div>
+    </div>
+    <div
+      className="sc-caSCKo knfCeb"
+    >
+      <div
+        className="sc-gisBJw dBltYR"
+      >
+        15
+      </div>
+    </div>
+    <div
+      className="sc-kjoXOD kKPDNR"
+    >
+      <div
+        className="sc-cHGsZl dnLELM"
+      >
+        16
+      </div>
+    </div>
+    <div
+      className="sc-TOsTZ dJzjlS"
+    >
+      <div
+        className="sc-kgAjT kAvHLT"
+      >
+        17
+      </div>
+    </div>
+  </div>
+  <div
+    className="sc-htpNat dPjGwt"
+  >
+    <div
+      className="sc-cJSrbW jGUHhF"
+    >
+      <div
+        className="sc-ksYbfQ sgNiU"
+      >
+        18
+      </div>
+    </div>
+    <div
+      className="sc-hmzhuo cZbfLL"
+    >
+      <div
+        className="sc-frDJqD ersTXg"
+      >
+        19
+      </div>
+    </div>
+    <div
+      className="sc-kvZOFW huEEBe"
+    >
+      <div
+        className="sc-hqyNC iRcNuU"
+      >
+        20
+      </div>
+    </div>
+    <div
+      className="sc-jbKcbu hnNsle"
+    >
+      <div
+        className="sc-dNLxif irEBvS"
+      >
+        21
+      </div>
+    </div>
+    <div
+      className="sc-jqCOkK ikBCdt"
+    >
+      <div
+        className="sc-uJMKN cvXCy"
+      >
+        22
+      </div>
+    </div>
+    <div
+      className="sc-bbmXgH bURDwc"
+    >
+      <div
+        className="sc-gGBfsJ bymMbm"
+      >
+        23
+      </div>
+    </div>
+    <div
+      className="sc-jnlKLf dBvFru"
+    >
+      <div
+        className="sc-fYxtnH bJcwtB"
+      >
+        24
+      </div>
+    </div>
+  </div>
+  <div
+    className="sc-htpNat dPjGwt"
+  >
+    <div
+      className="sc-tilXH kYnhbq"
+    >
+      <div
+        className="sc-hEsumM fhsndH"
+      >
+        25
+      </div>
+    </div>
+    <div
+      className="sc-ktHwxA bktDiu"
+    >
+      <div
+        className="sc-cIShpX kHmBFZ"
+      >
+        26
+      </div>
+    </div>
+    <div
+      className="sc-kafWEX efmRLN"
+    >
+      <div
+        className="sc-feJyhm jzzLLc"
+      >
+        27
+      </div>
+    </div>
+    <div
+      className="sc-iELTvK kaAfsl"
+    >
+      <div
+        className="sc-cmTdod eWHawO"
+      >
+        28
+      </div>
+    </div>
+    <div
+      className="sc-jwKygS dijJLx"
+    >
+      <div
+        className="sc-btzYZH gkcPKt"
+      >
+        29
+      </div>
+    </div>
+    <div
+      className="sc-lhVmIH fFQCAB"
+    >
+      <div
+        className="sc-bYSBpT brvqYH"
+      >
+        30
+      </div>
+    </div>
+    <div
+      className="sc-elJkPf fwCNpN"
+    >
+      <div
+        className="sc-jtRfpW dMPdas"
+      >
+        1
+      </div>
+    </div>
+  </div>
+</div>
+`;

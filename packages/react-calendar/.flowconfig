@@ -1,0 +1,17 @@
+[ignore]
+.*/build/.*
+
+; Selectively ignoring due to misc module errors - https://github.com/facebook/flow/issues/1548
+.*/node_modules/jest-validate/.*
+.*/node_modules/styled-components/.*
+.*/node_modules/stylelint/.*
+.*/node_modules/moment-range/.*
+lib/.*
+
+[include]
+
+[libs]
+flow/
+flow-typed
+
+[options]

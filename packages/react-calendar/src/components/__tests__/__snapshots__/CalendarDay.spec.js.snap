@@ -1,0 +1,49 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CalendarDay should show day_name style 1`] = `
+<div
+  className="sc-ifAKCX fbhzVK"
+>
+  <div
+    className="sc-EHOje drtFEP"
+  >
+    1
+  </div>
+</div>
+`;
+
+exports[`CalendarDay should show muted style 1`] = `
+<div
+  className="sc-htpNat jMMEso"
+>
+  <div
+    className="sc-bxivhb jXNyRX"
+  >
+    1
+  </div>
+</div>
+`;
+
+exports[`CalendarDay should show normal style 1`] = `
+<div
+  className="sc-bZQynM cZCAer"
+>
+  <div
+    className="sc-gzVnrw iyiVzV"
+  >
+    1
+  </div>
+</div>
+`;
+
+exports[`CalendarDay should show today style 1`] = `
+<div
+  className="sc-bdVaJa fTNhch"
+>
+  <div
+    className="sc-bwzfXH kchIv"
+  >
+    1
+  </div>
+</div>
+`;

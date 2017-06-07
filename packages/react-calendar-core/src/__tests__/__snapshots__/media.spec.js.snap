@@ -1,0 +1,85 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`media should have custom desktop breakpoint 1`] = `
+Array [
+  "
+      @media (max-width: ",
+  "18.75",
+  "em) {
+        ",
+  "background: papayawhip;",
+  "
+      }
+    ",
+]
+`;
+
+exports[`media should have custom mobile breakpoint 1`] = `
+Array [
+  "
+      @media (max-width: ",
+  "6.25",
+  "em) {
+        ",
+  "background: papayawhip;",
+  "
+      }
+    ",
+]
+`;
+
+exports[`media should have custom tablet breakpoint 1`] = `
+Array [
+  "
+      @media (max-width: ",
+  "12.5",
+  "em) {
+        ",
+  "background: papayawhip;",
+  "
+      }
+    ",
+]
+`;
+
+exports[`media should have default desktop breakpoint 1`] = `
+Array [
+  "
+      @media (max-width: ",
+  "120",
+  "em) {
+        ",
+  "background: papayawhip;",
+  "
+      }
+    ",
+]
+`;
+
+exports[`media should have default mobile breakpoint 1`] = `
+Array [
+  "
+      @media (max-width: ",
+  "40",
+  "em) {
+        ",
+  "background: papayawhip;",
+  "
+      }
+    ",
+]
+`;
+
+exports[`media should have default tablet breakpoint 1`] = `
+Array [
+  "
+      @media (max-width: ",
+  "80",
+  "em) {
+        ",
+  "background: papayawhip;",
+  "
+      }
+    ",
+]
+`;

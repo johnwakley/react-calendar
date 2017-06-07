@@ -1,0 +1,23 @@
+{
+  "devDependencies": {
+    "lerna": "^2.0.0-rc.5",
+    "husky": "^0.13.3",
+    "lint-staged": "^3.5.0",
+    "prettier-standard": "^5.0.0"
+  },
+  "scripts": {
+    "bootstrap": "lerna bootstrap",
+    "test": "yarn precommit",
+    "lint-staged": "lint-staged",
+    "precommit": "lint-staged && BASE_DIR=$(pwd)/packages/ && cd $BASE_DIR/react-calendar-core && yarn precommit && cd $BASE_DIR/react-calendar && yarn precommit && cd $BASE_DIR",
+    "prepush": "BASE_DIR=$(pwd)/packages/ && cd $BASE_DIR/react-calendar-core && yarn prepush && cd $BASE_DIR/react-calendar && yarn prepush && cd $BASE_DIR"
+  },
+  "lint-staged": {
+    "linters": {
+      "packages/*/src/**/*.js": [
+        "prettier-standard",
+        "git add"
+      ]
+    }
+  }
+}
